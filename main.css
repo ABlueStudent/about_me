@@ -1,0 +1,32 @@
+html {
+    box-sizing: border-box;
+    position: fixed;
+}
+
+.item_01 {
+    position: fixed;
+    background: url(img/overlay.png), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+    height: 100%;
+}
+
+.item_02 {
+    background-color: white;
+    margin-top: 10%;
+    padding: 3em;
+    max-height: 700px;
+}
+
+.item_03 {
+    align-items: center;
+    justify-content: center;
+    font-weight: 800!important;
+}
+
+.item_04 {
+    color: darkgray;
+}
+
+.item_06 {
+    align-items: center;
+    justify-content: center;
+}
